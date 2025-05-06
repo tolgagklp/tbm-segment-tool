@@ -1,4 +1,4 @@
-# Allplan TBM Modeler
+# Allplan TBM Lining Modeler
 
 A parametric 3D modeling tool for tunnel segmental linings based on the Universal Tapered Ring concept, developed with the Allplan Python API.
 
